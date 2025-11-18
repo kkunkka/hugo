@@ -1,0 +1,4 @@
+baseURL = 'http://117.72.119.13/'
+languageCode = 'en-us'
+title = 'Kkunkka Site'
+theme = 'parperMod'
