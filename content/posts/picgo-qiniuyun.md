@@ -1,6 +1,6 @@
 +++
 date = '2025-11-18T21:04:16+08:00'
-title = 'Picgo Qiniuyun'
+title = 'PicGo使用七牛云作为图床'
 +++
 
 ## 概要
