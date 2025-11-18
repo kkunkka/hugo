@@ -32,7 +32,7 @@ jobs:
         with:
           switches: -avz --delete
           path: ./public/ # 指定要同步的本地目录，即 Hugo 构建输出的目录
-          remote_path: /path/to/your/website/on/server/ # 目标服务器上的目录
+          remote_path: /root/app/hugo # 目标服务器上的目录
           remote_host: ${{ secrets.REMOTE_HOST }} # 你的服务器 IP 或域名
           remote_user: ${{ secrets.REMOTE_USER }} # SSH 登录用户名
           remote_key: ${{ secrets.REMOTE_PRIVATE_KEY }} # 私钥
