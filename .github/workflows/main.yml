@@ -28,7 +28,7 @@ jobs:
 
       # 4. 部署到你的服务器
       - name: Deploy to Server via rsync
-        uses: burnett01/rsync-deployments@v1.1.0 # 一个常用的 rsync action
+        uses: burnett01/rsync-deployments@v7.0.1 # 一个常用的 rsync action
         with:
           switches: -avz --delete
           path: ./public/ # 指定要同步的本地目录，即 Hugo 构建输出的目录
