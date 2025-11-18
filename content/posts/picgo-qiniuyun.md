@@ -9,6 +9,7 @@ title = 'PicGo使用七牛云作为图床'
 
 通过[picgo](https://picgo.github.io/PicGo-Doc/)自动上传图片并获取链接
 
+<!--more-->
 
 ## 七牛云
 

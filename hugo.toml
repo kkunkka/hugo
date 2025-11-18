@@ -1,4 +1,4 @@
 baseURL = 'http://117.72.119.13/'
-languageCode = 'zh-CN'
-title = 'Kkunkka Site'
+languageCode = 'zh-cn'
+title = '回到过去'
 theme = 'parperMod'
