@@ -2,3 +2,8 @@ baseURL = 'http://kkunkka.site/'
 languageCode = 'zh-cn'
 title = '回到过去'
 theme = 'parperMod'
+
+[params]
+  [params.author]
+    name = 'kkunkka'
+    email = 'kkunkka@zohomail.com'

@@ -19,7 +19,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: 'latest' # 建议固定特定版本，例如 '0.147.8'
+          hugo-version: '0.147.4'
           extended: true # 如果主题要求，请启用扩展版
 
       # 3. 构建网站 (生成的静态文件默认在 'public' 目录)
