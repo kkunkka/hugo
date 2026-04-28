@@ -1,9 +1,11 @@
 baseURL = 'http://kkunkka.site/'
 languageCode = 'zh-cn'
+defaultContentLanguage = 'zh'
 title = '回到过去'
 theme = 'parperMod'
 
 [params]
+  DateFormat = '2006年1月2日'
   [params.author]
     name = 'kkunkka'
     email = 'kkunkka@zohomail.com'
